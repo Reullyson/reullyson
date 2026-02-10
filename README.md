@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Eric Reullyson,  full-stack freelance developer 👨‍💻 studying since 2023 🚀</div>  
+### <div align="center">I'm Eric Reullyson,  full-stack developer 👨‍💻 studying since 2023 🚀</div>  
   
 
  
