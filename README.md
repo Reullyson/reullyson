@@ -6,9 +6,7 @@
 ### <div align="center">I'm Eric Reullyson,  full-stack freelance developer 👨‍💻 studying since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working it   
-  
-
+ 
 - 🌱 I’m currently learning Mysql and PHP  
   
 
