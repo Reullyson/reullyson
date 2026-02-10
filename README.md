@@ -7,7 +7,7 @@
   
 
  
-- 🌱 I’m currently learning Mysql and PHP  
+- 🌱 I’m currently learning React  
   
 
 - ❓ Ask me about related technologies  
